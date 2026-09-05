@@ -8,3 +8,4 @@ Repo de práctica del plan DevOps.
 - `feature/*` — funcionalidades nuevas
 - `hotfix/*` — correcciones urgentes en producción
 EOF
+# Develop branch activa
